@@ -1,0 +1,26 @@
+### springboot多模块 #####################
+
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+.project
+.classpath
+.settings
+target
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### maven ###
+mvnw
+mvnw.cmd
+.mvn
+
+### .DS_Store ###
+.DS_Store

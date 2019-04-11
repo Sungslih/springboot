@@ -1,0 +1,19 @@
+### springboot多模块 #####################
+
+logs
+*/target
+### IntelliJ IDEA ###
+.idea
+*.iml
+*.iws
+*.ipr
+*/*.iml
+### maven ###
+mvnw
+mvnw.cmd
+.mvn
+### eclipse ###
+.settings
+*/.project
+*/.classpath
+*/.settings
